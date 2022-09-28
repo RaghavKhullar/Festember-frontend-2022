@@ -75,7 +75,7 @@ const Profile = () => {
 
                         </div>
 
-                        <div className={styleMobile.tshirt}>
+                        {/* <div className={styleMobile.tshirt}>
                             <div className={styleMobile.tshirtSize}>
                                 <div className={styleMobile.tshirtHeading}>T-Shirt Preference</div>
                             </div>
@@ -89,7 +89,7 @@ const Profile = () => {
 
 
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </MobileView>
